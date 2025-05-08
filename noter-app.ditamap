@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+
+<title>INDEX</title>
+<topicref href="topics/introducing-noter.dita" navtitle="Introducing: The Noter Application"/>
+<topicref href="topics/installing-noter.dita" navtitle="How To Install Noter.app"/>
+<topicref href="topics/account-login.dita" navtitle="Creating an Account and Logging In"/>
+<topicref href="topics/interface-overview.dita" navtitle="Understanding Noter.app Interface"/>
+<topicref href="topics/creating-first-note.dita" navtitle="Create Your First Note"/>
+<topicref href="topics/creating-first-task.dita" navtitle="Create Your First Task"/>
+<topicref href="topics/navigating-calendar.dita" navtitle="Navigating the Calendar"/>
+
+</map>

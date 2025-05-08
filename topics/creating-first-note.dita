@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="first_note">
+
+<title>Create Your First Note</title>
+<shortdesc>Learn the detailed steps to create your first note and understand basic saving in Noter.app.</shortdesc>
+
+<taskbody>
+
+<context>
+<p>This procedure provides a step-by-step guide on how to initiate a new note, enter content, and manage the initial saving of your information in Noter.app.</p>
+</context>
+
+<steps>
+
+<step>
+<cmd><b>Initiate a New Note</b></cmd>
+<substeps>
+<substep>
+<cmd>Locate the "New Note" button or icon. This is typically found in the Toolbar at the top of the application window (refer to the Interface Overview for its exact location).</cmd>
+<info>Click the "New Note" button. This action will open a fresh, empty note within the central Note Editor Pane. The title of the new note might default to something like "Untitled" or display the current date and time initially.</info>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Access the Note Editor</b></cmd>
+<substeps>
+<substep>
+<cmd>Click anywhere within the blank area of the Note Editor Pane.</cmd>
+<info>This action activates the text input field, indicated by a blinking cursor. You can now begin typing your content directly into this area.</info>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Enter Your Note Content</b></cmd>
+<substeps>
+<substep>
+<cmd>Begin typing using your keyboard.</cmd>
+<info>You can enter any text, such as ideas, reminders, or detailed information. The Note Editor Pane functions like a standard text editor.</info>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Observe Auto-Saving (If Applicable)</b></cmd>
+<info>Noter.app may feature an automatic saving mechanism that periodically saves your work in the background without requiring manual intervention. Look for any visual cues in the Status Bar (at the bottom of the window) that might indicate auto-saving activity (e.g., a spinning icon or a "Saving..." message).</info>
+</step>
+
+<step>
+<cmd><b>Manually Save Your Note (If Auto-Save is Not Present or for Explicit Saving)</b></cmd>
+<substeps>
+<substep>
+<cmd>Locate the "Save" icon in the Toolbar (it often resembles a floppy disk) or open the "File" menu in the Menu Bar and select "Save" or "Save As...".</cmd>
+<info>
+<ul>
+<li>If you are saving the note for the first time, selecting "Save" or "Save As..." will likely prompt you to enter a title for your note and choose a notebook to save it in.</li>
+<li>Enter a descriptive title for your note in the provided field.</li>
+<li>Select the desired notebook from the available options.</li>
+<li>Click the "Save" button to finalize saving your note.</li>
+<li>Subsequent saves using the "Save" option will typically save the changes to the existing note without prompting for a title or location again.</li>
+</ul>
+</info>
+</substep>
+</substeps>
+</step>
+
+</steps>
+
+<result>Your first note has been created, its content is now saved with the title you provided (if you manually saved), and it is located within the notebook you selected. You can now access and edit this note at any time through the Sidebar navigation.</result>
+
+</taskbody>
+</task>

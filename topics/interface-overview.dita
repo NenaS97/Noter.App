@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="interface_overview">
+
+<title>Understanding Noter.app Interface</title>
+<shortdesc> This section provides a quick overview of the main Noter.app window and its key components.</shortdesc>
+
+<refbody>
+
+<section>
+<image href="images/noter.app.jpg" width="800px" height="500px">
+<alt>Example image of the interface</alt>
+</image>
+</section>
+
+<section>
+<ul>
+<li><b>Main Window Layout:</b> Upon launching and logging in, the main Noter.app window is organized for easy access to notes, tasks, and scheduling.</li>
+</ul>
+</section>
+
+<section>
+<ul>
+<li><b>Key Interface Areas:</b> The main Noter.app window is comprised of the following key areas:</li>
+</ul>
+<ol>
+<li><b>Title Bar:</b> Top of the window. Displays "Noter.app" and the current notebook/view name. Contains standard window controls (minimize, maximize/restore, close) on the right (Windows) or left (macOS).</li>
+<li><b>Menu Bar/Toolbar:</b> Below the Title Bar (or top of screen on macOS). Offers features like "File," "Edit," "View," and "Help" that provide users quick-access icons for new note, add task, sync, etc.</li>
+<li><b>Sidebar:</b> On the left. Navigates notebooks, tags, and calendar. Includes sections for tasks and reminders.</li>
+<li><b>Note Editor Pane:</b> Central and largest area. Where you create, view, and edit notes. Formatting tools are easily accessible here.</li>
+<li><b>Status Bar:</b> Bottom of the window. Displays information like selected note count, sync status, and contextual tips.</li>
+</ol>
+</section>
+
+</refbody>
+</reference>

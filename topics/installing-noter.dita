@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="installation">
+
+<title>How To Install Noter.app</title>
+<shortdesc>This section guides you through the process of installing the Noter.app application on your computer.</shortdesc>
+
+<taskbody>
+
+<prereq>
+<p><b>Prerequisites:</b></p>
+<ul>
+<li>Supported Operating Systems: Windows 10 (1909) | macOS 10.15 Catalina.</li>
+<li>Internet access to download the installer.</li>
+</ul>
+</prereq>
+
+<context>
+<p>Please follow the procedure outlined below to install the Noter.app application on your computer.</p>
+</context>
+
+<steps>
+
+<step>
+<cmd><b>Download the Installer</b></cmd>
+<info> Open your web browser and go to the Noter.app download page: [Insert Website Link Here].</info>
+<substeps>
+<substep>
+<cmd>Identify the section for your operating system (Windows or macOS).</cmd>
+</substep>
+<substep>
+<cmd>Click the download button.</cmd>
+</substep>
+<substep>
+<cmd>Your browser will begin downloading a file (e.g., Noter.appSetup.exe for Windows, Noter.app.dmg for macOS).</cmd>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Run the Installer</b></cmd>
+<info>Once the download is finished, open your file explorer (Windows) or Finder (macOS) and navigate to your Downloads folder (or the location where your browser saves downloaded files).</info>
+<p>For Windows:</p>
+
+<substeps>
+<substep>
+<cmd>Double-click the Noter.appSetup.exe file.</cmd>
+</substep>
+
+<substep>
+<cmd>You may see a User Account Control prompt; click "Yes" to allow the installer to run.</cmd>
+</substep>
+
+<substep>
+<cmd>Follow the steps in the installation wizard, typically involving agreeing to the license agreement and choosing an installation directory.</cmd>
+</substep>
+
+<substep>
+<cmd>Click "Install" to begin the installation.</cmd>
+</substep>
+</substeps>
+
+<p>For macOS:</p>
+
+<substeps>
+<substep>
+<cmd>Double-click the Noter.app.dmg file.</cmd>
+</substep>
+
+<substep>
+<cmd>A virtual disk image will mount.</cmd>
+</substep>
+
+<substep>
+<cmd>Drag the Noter.app icon from the mounted disk image to your Applications folder.</cmd>
+</substep>
+
+<substep>
+<cmd>You can then eject the disk image.</cmd>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>First Launch</b></cmd>
+<info>After installation:</info>
+<p>For Windows:</p>
+
+<substeps>
+<substep>
+<cmd>Find Noter.app in your Start Menu.</cmd>
+</substep>
+
+<substep>
+<cmd> Click to launch. You may also have a desktop shortcut.</cmd>
+</substep>
+</substeps>
+
+<p>For macOS:</p>
+
+<substeps>
+<substep>
+<cmd>Open your Applications folder.</cmd>
+</substep>
+
+<substep>
+<cmd>Double-click the Noter.app icon.</cmd>
+</substep>
+
+<substep>
+<cmd>The application will open, and you will be prompted to create a new account or log in.</cmd>
+</substep>
+</substeps>
+</step>
+
+</steps>
+
+<result>After successfully completing these steps, the Noter.app application will be installed on your computer and ready to launch.</result>
+
+</taskbody>
+</task>

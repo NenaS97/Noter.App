@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="app_introduction">
+
+<title>Introducing: The Noter Application</title>
+
+<conbody>
+
+<p>The Noter Application (Noter.app) is your central hub for organizing thoughts, managing tasks, and keeping track of your schedule. Designed with simplicity and productivity in mind, Noter.app helps you capture ideas quickly and stay on top of your daily life.</p>
+
+<section>
+<title>Why Use Noter.app?</title>
+
+<p>With Noter.app, you can easily create and organize notes, ensuring that important information is always at your fingertips. Beyond simple note-taking, Noter.app empowers you to manage your to-dos with integrated task management and stay organized with a built-in calendar. Set reminders to never miss a deadline and personalize your experience with color-coded notes and customizable themes.</p>
+</section>
+
+<section>
+<title>Key Features</title>
+<p>Noter.app offers a range of powerful features to enhance your productivity:</p>
+
+<ul>
+<li><b>Note Creation and Organization:</b> Easily jot down ideas, create detailed notes, and organize them into notebooks.</li>
+<li><b>Task Management:</b> Create and manage to-do lists with due dates and completion status.</li>
+<li><b>Reminders:</b> Set alarms to remind you of important tasks and events.</li>
+<li><b>Calendar Integration:</b> View your schedule and link notes and tasks to specific dates.</li>
+<li><b>Color Attributes:</b> Assign colors to your notes for visual organization.</li>
+<li><b>Customizable Themes:</b> Personalize the look and feel of the app with a selection of themes.</li>
+</ul>
+</section>
+
+<section>
+<title>Getting Started: A Quick Look</title>
+
+<p>Getting started with Noter.app is easy:</p>
+
+<ol>
+<li><b>Download and Install:</b> Download the Noter.app application for your computer.</li>
+<li><b>Create an Account/Log In:</b> Set up your account or log in if you're a returning user.</li>
+<li><b>Create Your First Note:</b> Start capturing your ideas right away.</li>
+<li><b>Add a Task:</b> Begin managing your to-dos.</li>
+<li><b>Explore the Calendar:</b> Get an overview of your schedule.</li>
+</ol>
+
+</section>
+
+<section>
+<title>System Requirements</title>
+<p>Noter.app is compatible with the following operating systems:</p>
+
+<ul>
+<li>Windows (version 1909 or later)</li>
+<li>macOS 10.15 Catalina or later</li>
+</ul>
+</section>
+
+</conbody>
+</concept>

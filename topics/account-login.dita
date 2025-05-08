@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="account_login">
+
+<title>Creating an Account and Logging In</title>
+<shortdesc>Learn how to create or access your Noter.app account.</shortdesc>
+
+<taskbody>
+
+<context>
+Use the following steps to either create your new Noter.app account or log in to an existing one.
+</context>
+
+<steps>
+
+<step>
+<cmd><b>Create a New Account</b></cmd>
+<substeps>
+<substep>
+<cmd>Click "Create Account" or "Sign Up"</cmd>
+</substep>
+<substep>
+<cmd>Complete the registration form with your email and desired password.</cmd> 
+</substep>
+<substep>
+<cmd>Optionally, provide your name.</cmd>
+</substep>
+<substep>
+<cmd>Review Terms and Privacy Policy.</cmd>
+</substep>
+<substep>
+<cmd>Check your email for a verification link and follow instructions.</cmd>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Log In</b></cmd>
+<substeps>
+<substep>
+<cmd>Enter your registered email address and password in the respective fields.</cmd>
+</substep>
+<substep>
+<cmd>Click "Log In"</cmd>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Recover Password</b></cmd>
+<substeps>
+<substep>
+<cmd>Click "Forgot Password?"</cmd>
+</substep>
+<substep>
+<cmd>Enter your registered email address.</cmd>
+</substep>
+<substep>
+<cmd>Click "Submit" or "Request Reset"</cmd>
+</substep>
+<substep>
+<cmd>Check your email for a password reset link and follow the instructions to create a new password.</cmd>
+</substep>
+</substeps>
+</step>
+
+</steps>
+
+</taskbody>
+</task>

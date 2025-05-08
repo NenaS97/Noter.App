@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="calendar_navigation">
+
+<title>Navigating the Calendar</title>
+<shortdesc> Learn how to access and view the calendar feature in Noter.app.</shortdesc>
+
+<taskbody>
+
+<context>
+<p>This procedure explains how to open the calendar within Noter.app and view its basic layout.</p>
+</context>
+
+<steps>
+
+<step>
+<cmd><b>Open the Calendar</b></cmd>
+<substeps>
+<substep>
+<cmd>In the Sidebar, locate and click the "Calendar" icon (refer to the <xref href="interface-overview.dita">Interface Overview</xref> for its location).</cmd>
+<info>- This action opens the calendar view in the main Note Editor Pane.</info>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Explore the Calendar Interface</b></cmd>
+<info>- The calendar displays the current month by default.</info>
+<info>- To view other months, use the navigation arrows (&quot;&lt;&quot; and &quot;&gt;&quot;) located near the top of the calendar.</info>
+<info>- Click on a specific day to view any notes, tasks, or scheduled events for that day.</info>
+<info>- Some calendars may offer different views (day, week, month). Look for view options, represented by icons or tabs (e.g., "Day," "Week," "Month").</info>
+</step>
+
+</steps>
+
+<result>You are now viewing the Noter.app calendar. You can browse different months and days and view any associated notes or tasks.</result>
+
+</taskbody>
+</task>

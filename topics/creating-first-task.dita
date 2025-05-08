@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="first_task">
+
+<title>Create Your First Task</title>
+<shortdesc>Learn the steps to add a new task and set a basic reminder in Noter.app.</shortdesc>
+
+<taskbody>
+
+<context>
+<p>Follow these steps to create a new to-do item. You will also learn how to set a simple reminder for it in Noter.app.</p>
+</context>
+
+<steps>
+
+<step>
+<cmd><b>Go to Tasks</b></cmd>
+<substeps>
+<substep>
+<cmd>Find the "Tasks" section in the Sidebar.</cmd>
+<info>Click on "Tasks". This opens the task management area. It appears in the main Note Editor Pane.</info>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Start a New Task</b></cmd>
+<substeps>
+<substep>
+<cmd>Look for the "Add Task" button. It is a "+" icon, placed at the top of the task list. (See the <xref href="interface-overview.dita">Interface Overview</xref>)</cmd>
+<info>Click "Add Task" or the "+" icon. A new, empty task field will show. A cursor will blink, ready for your task description.</info>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Describe Your Task</b></cmd>
+<substeps>
+<substep>
+<cmd>Type what you need to do in the new task field.</cmd>
+<info>Be clear. Be concise.</info>
+</substep>
+</substeps>
+</step>
+
+<step>
+<cmd><b>Set a Basic Reminder</b></cmd>
+<substeps>
+<substep>
+<cmd>Find the "Reminder" icon. It looks like a bell icon, placed near your new task. Click on it.</cmd>
+<info>A simple reminder window will appear. Choose a date and time. Click "Save" to confirm.</info>
+</substep>
+</substeps>
+</step>
+
+</steps>
+
+<result>Your first task is now created. If you set one, a basic reminder is also active. The task is in your task list. You will get a notification at the set time.</result>
+
+</taskbody>
+</task>
