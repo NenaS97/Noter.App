@@ -8,6 +8,14 @@ This guide was developed using the Darwin Information Typing Architecture (DITA)
 
 **Note:** The content within this personal project was AI-generated for demonstration purposes.
 
+## View the Live Site
+
+You can view the live HTML version of this guide at:
+
+👉 **[https://nenas97.github.io/Noter.App/](https://nenas97.github.io/Noter.App/)**
+
+The site is automatically generated from the contents of the `docs/` folder using GitHub Pages.
+
 ## Technical Elements and Attributes Used
 
 The DITA source files in this project utilize the following elements and attributes to structure and present information effectively:
